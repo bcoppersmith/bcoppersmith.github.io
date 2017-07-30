@@ -21,3 +21,10 @@ Bene Coopersmith is a New York based an actor and [record-shop proprietor](http:
 [Ben graduated from the Parsons School of Design and currently lives and works in New York City.](http://bencoopersmith.com/about/blog/)
 
 ![Benjamin J. Coopersmith Environment Photo](http://bencoopersmith.com/files/gimgs/3_enviro03.jpg)
+
+# Ben Coppersmith
+
+This is actually me.
+
+<img src="/assets/fam.png" alt="my fam" title="my fam" height="80%" width="80%" />
+
