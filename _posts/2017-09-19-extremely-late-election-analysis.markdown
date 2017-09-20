@@ -17,7 +17,7 @@ So: how was turnout? It was fine:
 
 <iframe width="100%" height="520" frameborder="0" src="https://ben-coppersmith.carto.com/viz/a03ec8e5-2e66-450f-9d64-918ebb0343e8/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-The reservoir seems to act as a turnout sink -- more votes the closer you get. My guess there is that income/wealth also increases as you get closer to the water. Another factor might be polling place location; I know my polling place is at the base of the reservoir, and there's a chance that had a positive affect as well.
+The reservoir seems to act as a turnout sink -- more votes the closer you get. My guess there is that income/wealth also increases as you get closer to the water. Another factor might be polling place location; I know my polling place is at the base of the reservoir, and there's a chance that had a positive effect as well.
 
 Of course, "good" turnout for this one is all relative. No precinct turned out more than 50% of its registered voters for this "hangover" election. Overall, 25% (32,019) of registered voters cast ballots in this election for CD13. About 67% (76,717) cast a ballot in the [November general](https://www.lavote.net/home/voting-elections/current-elections/election-results/past-election-results#06072016).
 
