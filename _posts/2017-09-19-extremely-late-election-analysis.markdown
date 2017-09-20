@@ -7,11 +7,11 @@ about: Mapping the turnout and results for District 13's City Council election o
 
 It's time for some election analysis! And yes, I'm talkin' 'bout the big one: the race for LA Council District 13 from the Los Angeles County March 7th Consolidated Municipal and Special Election! 
 
-Why now? Well, jeez, I didn't know there was deadline, relax, I do this in my free time!
+Why now? Well jeez, I didn't know there was deadline.
 
-Why this election? Well, we elected new City Council members, who are about as local as you can go while still retaining real political power. It's also an interesting election: rising rents are causing real problems and leading to real tensions, plus, would anyone care that the [reservoir was still empty](http://www.latimes.com/local/california/la-me-silver-lake-reservoir-20150615-story.html)?
+Why this election? Only four months after the big November General Election, we elected new City Council members, who are about as local as you can go while still retaining real political power. It's also an interesting election: rising rents are causing real problems and leading to real tensions, plus, would anyone care that the [reservoir was still empty](http://www.latimes.com/local/california/la-me-silver-lake-reservoir-20150615-story.html)?
 
-This was also the first of 7 for Los Angeles County voters in 2017. Oh boy.
+This was also the first of 7 elections for Los Angeles County voters in 2017. Oh boy.
 
 So: how was turnout? It was fine:
 
