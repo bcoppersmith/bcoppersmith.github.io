@@ -7,17 +7,17 @@ about: Mapping the turnout and results for District 13's City Council election o
 
 It's time for some election analysis! And yes, I'm talkin' 'bout the big one: the race for LA Council District 13 from the Los Angeles County March 7th Consolidated Municipal and Special Election! 
 
-Why now? Well, jeez, I didn't know there was deadline, relax, I do this in my free time!
+Why now? Well jeez, I didn't know there was deadline.
 
-Why this election? Well, we elected new City Council members, who are about as local as you can go while still retaining real political power. It's also an interesting election: rising rents are causing real problems and leading to real tensions, plus, would anyone care that the [reservoir was still empty](http://www.latimes.com/local/california/la-me-silver-lake-reservoir-20150615-story.html)?
+Why this election? Only four months after the big November General Election, we elected new City Council members, who are about as local as you can go while still retaining real political power. It's also an interesting election: rising rents are causing real problems and leading to real tensions, plus, would anyone care that the [reservoir was still empty](http://www.latimes.com/local/california/la-me-silver-lake-reservoir-20150615-story.html)?
 
-This was also the first of 7 for Los Angeles County voters in 2017. Oh boy.
+This was also the first of 7 elections for Los Angeles County voters in 2017. Oh boy.
 
 So: how was turnout? It was fine:
 
 <iframe width="100%" height="520" frameborder="0" src="https://ben-coppersmith.carto.com/viz/a03ec8e5-2e66-450f-9d64-918ebb0343e8/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-The reservoir seems to act as a turnout sink -- more votes the closer you get. My guess there is that income/wealth also increases as you get closer to the water. Another factor might be polling place location; I know my polling place is at the base of the reservoir, and there's a chance that had a positive affect as well.
+The reservoir seems to act as a turnout sink -- more votes the closer you get. My guess there is that income/wealth also increases as you get closer to the water. Another factor might be polling place location; I know my polling place is at the base of the reservoir, and there's a chance that had a positive effect as well.
 
 Of course, "good" turnout for this one is all relative. No precinct turned out more than 50% of its registered voters for this "hangover" election. Overall, 25% (32,019) of registered voters cast ballots in this election for CD13. About 67% (76,717) cast a ballot in the [November general](https://www.lavote.net/home/voting-elections/current-elections/election-results/past-election-results#06072016).
 
